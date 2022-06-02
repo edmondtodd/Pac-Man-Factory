@@ -10,8 +10,7 @@ button{
     background-color: lemonchiffon;
     background-size: 400px 400px;
     font-size: 1.5em;
-    font-weight: bold;
-    color: rgb(37, 78, 5);
+    color: (37, 78, 5);
     border-color: white;
     padding: 8px 12px;
     border-radius: 5px;
